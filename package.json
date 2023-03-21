@@ -1,0 +1,12 @@
+{
+  "name": "lsd-quick-stake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lagoonlabs/lsd-quick-stake.git",
+  "author": "Andrew Redden <opensource@andrewredden.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@blockswaplab/lsd-wizard": "^1.7.1",
+    "ethers": "^6.2.0"
+  }
+}
